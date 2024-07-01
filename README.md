@@ -2,6 +2,8 @@
 
 This repository contains a series of Python scripts that demonstrate how to build a neural network from scratch. Each script builds on the previous ones, gradually increasing in complexity and functionality.
 
+<img src='https://images.squarespace-cdn.com/content/v1/5800c6211b631b49b4d63657/1517072201941-37JOI5UBDVSD7I4IBF0W/fullyconnected_525.gif' width=300>
+
 ### Installing
 
 1. Clone the repository:
