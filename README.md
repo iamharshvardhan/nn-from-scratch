@@ -22,6 +22,5 @@ This repository contains a series of Python scripts that demonstrate how to buil
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
-```
 
 Feel free to customize this README file as per your specific needs. You can add more details, explanations, or sections if required.
