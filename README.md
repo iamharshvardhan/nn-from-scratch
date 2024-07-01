@@ -17,7 +17,7 @@ This repository contains a series of Python scripts that demonstrate how to buil
 
 ## Acknowledgments
 
-- This project is inspired by sentdex's nnfs book and [youtube videos](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) for a deeper implementation and understanding of the internal workings of neural networks.
+- This project is inspired by sentdex's [nnfs book](https://nnfs.io/) and [youtube videos](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3) for a deeper implementation and understanding of the internal workings of neural networks.
 
 ## License
 
